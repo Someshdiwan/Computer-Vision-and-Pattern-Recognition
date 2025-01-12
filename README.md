@@ -21,6 +21,8 @@ This repository provides hands-on projects that cover a range of fundamental and
 - **Face Recognition**: Identifying or verifying individuals from digital images or videos.
 - **Optical Character Recognition (OCR)**: Converting different types of documents, such as scanned paper documents or PDFs, into editable and searchable data.
 
+![Computer Vision GIF](https://media4.giphy.com/media/cuo04RbNbCFjy/giphy-downsized.gif)
+
 ---
 
 ## 🔧 Features
