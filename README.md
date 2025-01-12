@@ -89,13 +89,7 @@ Clone the repository:
 bash
 git clone https://github.com/Someshdiwan/Computer-Vision-and-Pattern-Recognition
 
-Navigate to the project directory:
-bash
-
-cd Computer-Vision-and-Pattern-Recognition
-
 Open any Jupyter notebook or Python script and run the code cells to see the implementations in action.
----
 ---
 🌟 Show Your Support
 If you like this project, please consider giving it a ⭐ on GitHub!
